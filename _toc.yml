@@ -10,6 +10,7 @@ parts:
   - file: electromagnetism
   - file: met
   - file: obrax
+  - file: opop
 - caption: СМТФ
   chapters:
   - file: sets
